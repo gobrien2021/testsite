@@ -1,0 +1,92 @@
+body {
+				font-size: 80%;
+				font-family: Arial, Helvetica, sans-serif;
+				letter-spacing: 0.15em;	
+				background-color:#fffff;
+				background-image:url("images/Background6.png");
+				}
+/* ---------- page indented in body ---------- */
+#footer{
+	color:white;
+}
+fieldset{
+	color:white;
+}
+.picture {
+	border:5px solid #ffff;
+	width:572px;
+
+	
+}
+
+
+#page {			
+
+				
+				margin-left:auto;
+				max-width: 740px;
+				min-width: 520px;
+				margin: 10px auto 10px auto;
+				padding: 20px;
+				border: 4px, #ffffff;
+				border-style:solid;
+				background-color: black;
+				border-color: white;
+				
+				
+				}
+/* ---------- styles my logo ---------- */
+#logo {
+				width: 150px;
+				margin: 10px auto , 25px auto ;
+				}
+				
+				
+				
+/* ---------- styles my Header  ---------- */				
+#Heading {
+	width:150px;
+	margin:50px 50px;
+	float:relative
+	
+}
+
+ul {
+				color: white;
+				width: 570px;
+				padding: 15px;
+				margin: 0px auto 0px auto;
+				border-top: 2px solid #000;
+				border-bottom: 1px solid #000;
+				text-align: center;
+				
+				}
+li {
+				display: inline;
+				margin: 0px 3px;
+				}
+p {
+				text-align: center;
+				width: 600px; 
+				margin: 20px auto 20px auto; 
+				font-weight: normal;
+				color: White;
+				
+				}
+a {
+				color: White;
+				text-transform: uppercase;
+				text-decoration: none;
+				padding: 6px 18px 5px 18px;
+				}
+/*.image-div{
+  float:left;
+  margin-right:10px;
+  max-width: 20%;
+  max-height: 20%;
+}*/
+
+a:hover, a.on {
+				color: white;
+				color: #cc33ff;
+				background-color: #ffffff;}
